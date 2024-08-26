@@ -1,0 +1,4 @@
+repository "UnitySample@Ferj@cloud"
+  path "/"
+    br "/main"
+    co "/main"
